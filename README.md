@@ -25,7 +25,8 @@
 </body>
 </html>
 
-html>
+
+<html>
 <body>
 
 <p>Aqui temos um parágrafo.</p> <!-- aqui temos o primeiro parágrafo -->
